@@ -1,0 +1,1 @@
+document.addEventListener('DOMContentLoaded',()=>{let i=document.querySelector('#citySearch');if(i)i.addEventListener('input',()=>document.querySelectorAll('[data-city]').forEach(e=>e.style.display=e.dataset.city.includes(i.value.trim())?'flex':'none'));});

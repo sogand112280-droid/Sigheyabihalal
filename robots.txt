@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sighehalali11228-blip.github.io/sigheh-online/sitemap.xml
